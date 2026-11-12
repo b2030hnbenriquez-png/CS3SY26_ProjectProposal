@@ -2,9 +2,9 @@
 
 ## Project Proposal Template
 
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Project Title or Name of the Application	: TTC and Migudarbs Online shopping
+### Section			   	      : 9-Magnesium
+### Group Members			    : Hesus Naganos B. Enriquez, Kenneth Edward Catral, Eduardo Vitangcul
 ### Date (Proposal Date)  :
 
 ### Project Description:
@@ -21,12 +21,15 @@
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
-### Goals:
+### Goals: Our goal is to design an easy-to-use online shopping website. It will help customers quickly find products that they need. It will also help sellers easily manage their products and track their orders. Our long term vision is to make a reliable digital marketplace that makes it easy to discover products, secure user authentication, and make it easy for purchases to be processed.
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+Objective 1: Make a safe login and sign-up system for shoppers and store owners
+Objective 2: Build a clean product page where users can easily search and view items.
+Objective 3: Create a working shopping cart that adds up prices and completes orders smoothly.
+Objective 4: Set up a simple seller page to add, edit, or delete products and to give them their selling statistics.
+Objective 5: Make an algorithm where the products of which the buyers lean into the most will be what shows up on their main feed.
+
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
