@@ -4,12 +4,14 @@
 
 ### Project Title or Name of the Application	: TTC and Migudarbs Online shopping
 ### Section			   	      : 9-Magnesium
-### Group Members			    : Hesus Naganos B. Enriquez, Kenneth Edward Catral, Eduardo Vitangcul
+### Group Members			    : Hesus Naganos B. Enriquez, Kenneth Eduard Catral, Eduardo Vitangcul
 ### Date (Proposal Date)  :
 
 ### Project Description: A common problem for sellers on a normal online shopping platform is that they have to do manual computations for themselves on statistics and information that would help their business and their future decisions. Meanwhile, a problem that buyer's face is that they get products on their feed that doesn't even correlate with their interest and price-range. This program aims to help solve these problems step by step and we will integrate it into an online shop of our own. This will help sellers with business related statistics that could help them with making future choices on products as well as how they will adapt to change and stay relevant with customer interest. This will also help customers by making an algorithm that sort certain products to pop up more in the buyer's feed relevant to the tags they put in their interests and the price-range that they can afford. In context, once a user enters their preferred product category tags and price range, the algorithm class will scan through a list of products and then it will take the products that pass the algorithm and put them in the user's feed. 
 
 Classes With their attributes and methods and notes on how they interact with other classes:
+
+<img width="1312" height="622" alt="CS3_ProjectProposal-ClassDiagram_CATRAL,ENRIQUEZ,VITANGCUL" src="https://github.com/user-attachments/assets/0d65229f-eac6-4931-a867-ffd0fd48a671" />
 
 
 - A brief summary of the project description and the need for it.
