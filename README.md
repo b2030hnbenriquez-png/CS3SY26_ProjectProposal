@@ -1,4 +1,4 @@
-# CS3SY26_ProjectProposal by AlMendiza
+# CS3SY26_ProjectProposal by 9Mg, Mg03, Mg10, Mg30
 
 ## Project Proposal Template
 
